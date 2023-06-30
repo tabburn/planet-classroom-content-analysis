@@ -22,7 +22,7 @@ This analyis will help answer questions like:
 
 * Which videos should have more promotion?
 * What is the relationship between CPM and RPM?
-* Are they any correlations between specific variables?
+* Are there any correlations between specific variables?
 * What is the difference between impressions and ad impressions?
 * What other factors should be accounted for that are not available in this analysis?
 
